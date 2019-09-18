@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Copyright 2018 Simone Rubino - Agile Business Group
+# Copyright 2019 ALLA  Yoboue Parfait
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 {
     "name": "Pro forma invoice sequence",
@@ -9,7 +9,7 @@
     "category": "Accounting",
     "website": "https://github.com/allan225/account_invoice_proforma_sequence_v8/tree/8.0"
                "account_invoice_pro_forma_sequence_v8",
-    "author": "Agile Business Group, Odoo Community Association (OCA)",
+    "author": "Parfait ALLA",
     "license": "AGPL-3",
     "application": False,
     "installable": True,
