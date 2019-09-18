@@ -7,8 +7,8 @@
     "version": "8.0",
     "sequence":1,
     "category": "Accounting",
-    "website": "https://github.com/OCA/account-invoicing/tree/10.0/"
-               "account_invoice_pro_forma_sequence",
+    "website": "https://github.com/allan225/account_invoice_proforma_sequence_v8/tree/8.0"
+               "account_invoice_pro_forma_sequence_v8",
     "author": "Agile Business Group, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,
